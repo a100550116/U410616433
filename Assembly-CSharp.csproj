@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\menu.cs" />
     <Compile Include="Assets\myfun.cs" />
+    <Compile Include="Assets\SetDominos.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/student/Documents/U410616433/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/myfun.unity
     guid: 191889de7f8e09f4f8f5021cb8cd4771
+  - enabled: 1
+    path: Assets/domino.unity
+    guid: 85ac71c0c06408543a319790ec926560
   m_configObjects: {}
